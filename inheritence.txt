@@ -1,0 +1,2 @@
+inheritence is the process of inheriting the propertiies of parent class 
+ 
